@@ -1,0 +1,3 @@
+/home/kakshi/Desktop/ProjectsAndCodes/cmake/tut2/testsome/cpp/build/CMakeFiles/testsome.dir
+/home/kakshi/Desktop/ProjectsAndCodes/cmake/tut2/testsome/cpp/build/CMakeFiles/edit_cache.dir
+/home/kakshi/Desktop/ProjectsAndCodes/cmake/tut2/testsome/cpp/build/CMakeFiles/rebuild_cache.dir
